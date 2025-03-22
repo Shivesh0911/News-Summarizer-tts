@@ -1,5 +1,3 @@
-Here’s your properly formatted `README.md` in one go:  
-
 ```md
 # News Summarization and Text-to-Speech Application
 
